@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #344e41; /* very dark background */
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-weight: bold;   /* bolder font */
+  color: #dad7cd;      /* yellw typing text */
+  border-right: 3px solid #dad7cd; /* yellw blinking cursor */
+  padding-right: 8px;
+  white-space: nowrap;
+  overflow: hidden;
+}
